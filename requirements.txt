@@ -1,8 +1,8 @@
-streamlit
+streamlit==1.64.0
 yfinance
 pandas
 numpy<2.3,>=1.23.5
 plotly
 scikit-learn
-tensorflow
+tensorflow==2.21.0
 protobuf>=6.31.1,<8.0.0
